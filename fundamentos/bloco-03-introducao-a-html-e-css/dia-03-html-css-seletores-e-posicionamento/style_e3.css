@@ -1,0 +1,14 @@
+h1, p, ul {
+    text-align: center;
+    list-style: none;
+    }
+
+li:hover{
+    background-color: cornflowerblue;
+}
+li:active, a:active {
+    color: rgb(43, 226, 58);  
+    font-family: monospace;
+    font-size: 20px;
+}
+
